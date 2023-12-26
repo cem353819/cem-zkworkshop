@@ -1,0 +1,4 @@
+NETWORK=testnet3
+PRIVATE_KEY=({APrivateKey1zkp4mfdY3LA3X3Nm6fMTWoECHbZGGF2FCYsVMHbpNWu4thv}}
+
+
